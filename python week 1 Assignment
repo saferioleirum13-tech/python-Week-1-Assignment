@@ -5,7 +5,7 @@ age = 20
 favourite_language = "Python"
 goal = "to develop strong programming skills and become a skilled software developer"
 
-print("Hello, my name is", Saferio ".")
-print("I am", 20 "years old.")
-print("My favourite programming language is", Python ".")
-print("My goal for this course is", to develop strong programming skills and become a skilled software developer.".")
+print("Hello, my name is", name + ".")
+print("I am", age, "years old.")
+print("My favourite programming language is", favourite_language + ".")
+print("My goal for this course is", goal + ".")
